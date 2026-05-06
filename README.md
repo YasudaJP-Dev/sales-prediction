@@ -39,3 +39,17 @@ Pandasによるデータ分析と機械学習を用いて実装しました。
 ### 1. 環境構築
 ```bash
 pip install pandas scikit-learn matplotlib
+
+## ■ 実行結果
+RMSE: 423.5041001656806
+
+未来予測（次の5日）
+1日後: 1034.40
+2日後: 1489.60
+3日後: 1446.90
+4日後: 1437.20
+5日後: 1558.60
+
+<img width="803" height="672" alt="image" src="https://github.com/user-attachments/assets/9adeb3b7-42ac-479b-b72d-61725d525961" />
+
+
