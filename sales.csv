@@ -1,0 +1,11 @@
+Date,Product,Category,Quantity,Price
+2025-01-01,Apple,Fruit,10,120
+2025-01-01,Banana,Fruit,5,80
+2025-01-02,Orange,Fruit,8,100
+2025-01-02,Milk,Dairy,3,200
+2025-01-03,Bread,Bakery,6,150
+2025-01-03,Apple,Fruit,7,120
+2025-01-04,Milk,Dairy,4,200
+2025-01-04,Bread,Bakery,5,150
+2025-01-05,Orange,Fruit,10,100
+2025-01-05,Banana,Fruit,6,80
